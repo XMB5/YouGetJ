@@ -13,6 +13,7 @@ public class VideoInfo {
     public String title;
     public String description;
     public String image;
+    public String convertedUrl;
     public Date uploadDate;
     public DownloadOption simpleDownloadOption = new DownloadOption();
     public DownloadOption[] downloadOptions;
