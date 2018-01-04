@@ -7,6 +7,7 @@ Uses java 8 and dependends on [org.json/json](https://mvnrepository.com/artifact
 
 ## Examples
 The video used in these examples is [Despacito](https://www.youtube.com/watch?v=kJQP7kiw5Fk)  
+More examples in [Examples.java](src/main/java/com/shfdevelopment/yougetj/Examples.java)
 ### Download a video
 ```java
 InputStream videoIn = null;
@@ -94,7 +95,7 @@ try {
     //read from input stream, and write to output stream
     byte[] buf = new byte[8192];
     int amountRead;
-    while ((amountRead = videoIn.read(buf)) != -1) {
+    while ((amountRead = v``__********__``ideoIn.read(buf)) != -1) {
         fileOut.write(buf, 0, amountRead);
     }
 
