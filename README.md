@@ -3,7 +3,10 @@ Java video/audio downloader that uses [online-downloader](https://www.online-dow
 
 Works for youtube, facebook, vimeo, and a lot of other sites. The list of supported sites is [here](https://www.online-downloader.com/Supported-Sites). However, it seems that online-downloader uses [youtube-dl](https://github.com/rg3/youtube-dl), which supports [some other sites](https://rg3.github.io/youtube-dl/supportedsites.html) too.  
   
-Uses java 8 and dependends on [org.json/json](https://mvnrepository.com/artifact/org.json/json)
+Uses Java 8 and dependends on [org.json/json](https://mvnrepository.com/artifact/org.json/json)
+
+## Download
+Go to the [releases page](https://github.com/XMB5/YouGetJ/releases)
 
 ## Examples
 The video used in these examples is [Despacito](https://www.youtube.com/watch?v=kJQP7kiw5Fk)  
